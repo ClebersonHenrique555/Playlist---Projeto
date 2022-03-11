@@ -1,0 +1,19 @@
+.imagemDeFundo{
+    width: auto;
+    background-color: #FFC72C;
+    height: 700px;
+}
+
+body{
+    text-align: center;
+}
+
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p{
+    font-family: monospace;
+    font-size: 25px;
+    color:black;
+}

@@ -1,0 +1,33 @@
+p{
+    text-align: center;
+    
+}
+.musica{
+    font-size: 25px;
+    text-align:center;
+    background-color: white;
+}
+
+
+.traducao{
+    background-color:white ;
+    font-size: 25px;
+}
+
+audio{
+    border: black;
+}
+
+body{
+    text-align: center;
+    background-color: #ffa500;
+}
+
+span{
+    font-size: 25px;
+    background-color: white;
+}
+
+strong{
+    font-size: 45px;
+}
